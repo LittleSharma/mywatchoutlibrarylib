@@ -12,9 +12,6 @@
         android:theme="@style/Theme.WatchOutEmergencyLib"
         tools:targetApi="31">
 
-        >
-
-
         <activity
             android:name=".Controller.WatchOutEmergency"
             android:exported="false">
